@@ -1,7 +1,7 @@
 # Learning Git
 
-Here's our todo:
+Here's our to do:
 
 * \[x] Create a new file
-* \[ ] Make our first commit
-* \[ ] Fix this tpyo
+* \[x] Make our first commit
+* \[ ] Fix this typo
