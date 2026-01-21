@@ -6,9 +6,6 @@ Here's our to do:
 * \[x] Make our first commit
 * \[ ] Fix this typo
 
-dchdcyvyc
-fghfghg
-
 One of the purposes of version control is to let you undo changes
 There are different changes we might want to undo:
 
